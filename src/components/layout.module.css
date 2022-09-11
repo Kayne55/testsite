@@ -1,0 +1,27 @@
+.container {
+    font-family: 'Open-Sans', sans-serif;
+    margin: auto;
+    max-width: 500px;
+}
+
+.title {
+    font-family: 'Open-Sans', sans-serif;
+    text-transform: uppercase;
+    color: orangered;
+    font-size: 3rem;
+}
+
+.nav-links {
+    display: flex;
+    list-style: none;
+    padding: 0;
+}
+
+.nav-link-item {
+    padding-right: 1rem;
+}
+
+.nav-link-text {
+    color: orangered;
+    text-decoration: none;
+}
